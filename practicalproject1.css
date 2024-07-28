@@ -1,0 +1,16 @@
+.nasiib{
+   background-image: url("https://media.istockphoto.com/id/1392995204/photo/empty-beige-studio-space-with-deep-artistic-shadow.webp?b=1&s=170667a&w=0&k=20&c=JrVs_wJM09mE4aovXcpwzMGaRKoK6JagBuowgDkha3A=");
+   background-position: center;
+   background-repeat: no-repeat;
+   background-size: cover;
+   text-align: center;
+    padding: 40px; 
+   color: #ffffff;
+   /* width: 800px; */
+   border-radius: 15px;
+}
+.nasiib img{
+    width: 200px;
+    height: 200px;
+    border-radius: 50%;
+}
